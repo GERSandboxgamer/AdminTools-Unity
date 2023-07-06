@@ -1,0 +1,5 @@
+name: AdminTools
+main: de.sbg.unity.admintools.AdminTools
+version: 2.0.1
+author: Sandboxgamer
+description: "Tools for Admins"
